@@ -1,4 +1,4 @@
-# demos-managing-polls-react-apollo
+# demo-managing-polls-react-apollo
 
 _Implement a solution for managing and executing polls (use as visual reference the polls
 on Twitter or Telegram) using **react.js**, **apollo-client** and **apollo-sever** with **mongoDB**_
