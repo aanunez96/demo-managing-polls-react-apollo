@@ -38,3 +38,16 @@ on Twitter or Telegram) using **react.js**, **apollo-client** and **apollo-sever
   ▪ Admin: same privileges as Power Users. Can also manage users (create, remove, change role, password).
   
 
+## Installation
+To install this project you simply need to have docker installed then clone this and run:
+```bash
+docker-compose up 
+```
+To run the server:
+```bash
+docker exec -it poc-raam-express yarn start
+```
+To run the Web App:
+```bash
+docker exec -it poc-raam-react yarn start
+```
